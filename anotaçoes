@@ -1,0 +1,63 @@
+tangs
+<!--- aula1-->
+<b></b> - negrito
+<strong> </strong> - Negrito (enfase)
+<i></i> - Italico
+<u></u> - Sunlinhado
+<hr> - linha de devisao
+<br> - pular uma linha (quebra de linha)
+<small></small> - texto pequeno
+<del></del> - riscado (deletado)
+<sup></sup> - superior (ex: numero exponencial)
+<sub></sub> - Inferior
+<mark></mark> - marcaçao (destaca texto)
+
+<!---aula2-->
+<address></address> (endereço)
+<abbr title = 'abreviaçao'> abb</abbr> - abreviaçao
+<cite></cite> - citaçao
+<q> </q> - citaçao
+<blockquote></blockquote> - citaçao em destaque
+<p></p> - paragrafo
+
+<!---link-->
+<a href ='http://goggle.com.br'> exemplo </a>
+
+<!--- targent = '_blank' (abir um link sem fechar o outro)-->
+<a href=" https://www.youtube.com/" target="_blank"> clique aqui</a>
+
+<!--- usar '../' para voltar para a pagina principal por ser em pasta-->
+<a href="../"> exemplo</a>
+
+<!---imagem( nao possui fechamento. width ='' tamanho da largura. height ='' altura)-->
+<img src="C:\Users\Dandan\Downloads\pexels-xiao-bo-53084368-27008964.jpg' width ='300'>
+
+<table> <!----> tabela
+
+<tr> <!----> linha
+
+<th>nome</th> <!----> Coluna
+<th>idade</th>
+<th>peso</th>
+
+</tr>
+
+<tr>
+
+<td>Daniel</td> <!----> informaçao da coluna
+<td>19</td>
+<td>70</td>
+
+</tr>
+
+</table>
+
+<table> width = '100' border = '1'style = 'text - align: center;'> <!----- atributos para <table>
+
+
+
+    <header> </header>
+    <main> </main>
+    <foter
+    
+ 
